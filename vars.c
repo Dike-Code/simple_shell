@@ -1,4 +1,3 @@
-vi vars.c
 #include "shell.h"
 
 /**
